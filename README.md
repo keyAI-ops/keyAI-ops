@@ -4,7 +4,7 @@
 - 📃 I’m interested in Object Detection, Natural Language Processing.
 - 📩 How to reach me: ckyou1207@gmail.com
 
-For more information about me, click [here]()
+For more information about me, click [here](https://github.com/keyAI-ops/Resume/blob/main/README.md)
 
 ## Tools and Webpages
 ---
