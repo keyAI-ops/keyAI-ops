@@ -8,7 +8,7 @@ For more information about me, click [here]()
 
 ## Tools and Webpages
 ---
-- Tools : <img src="https://img.shields.io/badge/#EE4C2C?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+- Tools : <img src="https://img.shields.io/badge/#EE4C2C?style=for-the-badge&logo=Pythorch&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 - GitHub : https://github.com/keyAI-ops
 - Blog : https://velog.io/@init_philip
