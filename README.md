@@ -1,7 +1,7 @@
 ## About Me 👋
 ---
 - 🎓 I am a graduate student from AI robotics engineering of Korea National University of Transportation.
-- 📃 I’m interested in Object Detection, Natural Language Processing.
+- 📃 I’m interested in Object Detection, Sentiment Analysis.
 - 📩 How to reach me: ckyou1207@gmail.com
 
 For more information about me, click [here](https://github.com/keyAI-ops/Resume/blob/main/README.md)
